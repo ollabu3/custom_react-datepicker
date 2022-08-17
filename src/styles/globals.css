@@ -1,3 +1,21 @@
 * {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
   font-family: "Spoqa Han Sans Neo", "sans-serif";
+}
+body {
+  --bg-default: #ffffff;
+  --bg-main: #3e4ede;
+  --bg-border: #dfdfe3;
+  --tx-default: #000000;
+  --transition: 0.3s;
+  --sz-title: 20px;
+  --sz-main: 16px;
+  --sz-sub: 14px;
+}
+
+h2 {
+  margin: 0;
 }
